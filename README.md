@@ -13,3 +13,4 @@ In This Assignment
 ![Screenshot of profile page](/images/screencapture-KBprofile.png)
 
 [Deployed URL](https://KarolO1998.github.io/profilepage/)
+[Depolyed](https://karolo1998.github.io/profilepage/)
