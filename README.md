@@ -9,4 +9,5 @@ In This Assignment
     * Two unordered list (About Me, Interest)
     * Two hyperlinks
 
-
+## ScreenCapture
+![Screenshot of profile page](/images/screencapture-KBprofile.png)
