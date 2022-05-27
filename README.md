@@ -12,4 +12,4 @@ In This Assignment
 ## ScreenCapture
 ![Screenshot of profile page](/images/screencapture-KBprofile.png)
 
-[Deployed URL](https://karolo1998.github.io/profilepage/)
+[Deployed URL](https://karolo1998.github.io/profilepage)
